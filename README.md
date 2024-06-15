@@ -9,7 +9,8 @@
 
 [Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Пример добавления видео
+Пример добавления видео<br>
+
 [![Пример добавления видео](http://img.youtube.com/vi/J7al_Gpolb8/0.jpg)](https://youtu.be/J7al_Gpolb8)
 
 Пример добавления картинки
